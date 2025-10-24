@@ -1,6 +1,7 @@
 [submodule "login"]
-	path = login
-	url = ./login
+    path = login
+    url = https://github.com/SAMAKSH10/login.git
+
 [submodule "payment"]
-	path = payment
-	url = ./payment
+    path = payment
+    url = https://github.com/SAMAKSH10/payment.git
